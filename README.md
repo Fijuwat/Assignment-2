@@ -1,5 +1,6 @@
-# Assignment-2
-My hypothesis and experiment results
+# Assignment-2 API Experiment
+I want to test if Englsih "Pinyin", which is typing Mandarin in English will be detected by the system.
+I hypothesize that the dataframe won't really count "Pinyin" as words since it's a system for different languages but not for different language in different phonetic transcription. I also hypothesized that when a verbally abusing word is combined with another word especially in context, its toxicity will decrease.
 
 ## Hypothesis and experiment
 I want to test if Englsih "Pinyin", which is typing Mandarin in English will be detected by the system.
